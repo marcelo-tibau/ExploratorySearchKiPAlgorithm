@@ -1,4 +1,4 @@
-# Codes to convert WordNet and ConceptNet into an integrated model
+# Codes to convert WordNet into an integrated model to Neo4J ingestion
 # import nltk
 # nltk.download('wordnet')
 
@@ -6,10 +6,8 @@ from nltk.corpus import wordnet as wn
 import csv
 import json
 import logging as log
-import gzip
 import math
 import os
-import re
 
 log.basicConfig(level=log.INFO)
 
@@ -115,28 +113,7 @@ class Exporter:
                 last_progress = progress
                 log.info("%f%% Synsets extracted" % progress)
 
-    def extract_conceptnet(self):
-        log.info('Extracting ConceptNet')
-        last_progress = 0
-        with gzip.open(self.concept_location, 'rt') as f:
-            lines = csv.reader(f, delimiter='\t')
-            i = 0
-            for line in lines:
-                start = self.extract_concept(line[2])
-                end = self.extract_concept(line[3])
-                if start is not None and end is not None:
-                    self.add_concept_node(start)
-                    self.add_concept_node(end)
-                    dataset, weight = self.extract_edge_details(line[4])
-                    self.add_relationship(start.get_id, end.get_id, re.sub('/r/', '', line[1]), dataset, weight)
-
-                i += 1
-                progress_round = 10000
-                progress = math.floor(i / progress_round) * progress_round
-                if progress > last_progress:
-                    last_progress = progress
-                    log.info('Extracted %i concept assertations' % progress)
-
+                
     def extract_edge_details(self, edge_string):
         try:
             dataset = None
@@ -295,6 +272,5 @@ class Exporter:
             for id in self.lemma_map:
                 writer.writerow(self.lemma_map[id].get_row())
 
-#file = open(filename, encoding="utf8")
-#Exporter('neo4j_csv_imports', 'conceptnet-assertions-5.6.0.csv.gz', language_filter='en').export()    
-Exporter('neo4j_csv_imports', 'conceptnet-assertions-5.5.5.csv.gz', language_filter='en').export()       
+#file = open(filename, encoding="utf8")    
+Exporter('neo4j_csv_imports', language_filter='en').export()       
