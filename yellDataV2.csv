@@ -1,0 +1,189 @@
+Session,Terms,Term_Criterion_Label,K1,K2,K3,K4
+LearnWeb01,metaphor,K1,1,0,0,0
+LearnWeb01,metaphors for learning,K2,0,1,0,0
+LearnWeb01,metaphors for language teaching,K2,0,1,0,0
+LearnWeb01,metaphors for language teaching,K2,0,1,0,0
+LearnWeb01,mobile apps,K3,0,0,1,0
+LearnWeb01,french,K4,0,0,0,1
+LearnWeb01,dictionary,K4,0,0,0,1
+LearnWeb01,dictionary,K1,1,0,0,0
+LearnWeb01,dictionary,K1,1,0,0,0
+LearnWeb01,french dictionary,K2,0,1,0,0
+LearnWeb01,peer teaching,K3,0,0,1,0
+LearnWeb01,blog,K4,0,0,0,1
+LearnWeb01,tips for learn english,K3,0,0,1,0
+LearnWeb01,games for learning english,K3,0,0,1,0
+LearnWeb02,science,K4,0,0,0,1
+LearnWeb02,science,K1,1,0,0,0
+LearnWeb02,science museum london,K2,0,1,0,0
+LearnWeb03,ottawa,K4,0,0,0,1
+LearnWeb03,ottawa,K1,1,0,0,0
+LearnWeb03,ottawa,K1,1,0,0,0
+LearnWeb03,ottawa,K1,1,0,0,0
+LearnWeb04,grammar,K4,0,0,0,1
+LearnWeb04,grammar,K1,1,0,0,0
+LearnWeb04,grammar,K1,1,0,0,0
+LearnWeb04,grammar,K1,1,0,0,0
+LearnWeb04,grammar,K1,1,0,0,0
+LearnWeb04,grammar,K1,1,0,0,0
+LearnWeb04,grammar,K1,1,0,0,0
+LearnWeb04,grammar,K1,1,0,0,0
+LearnWeb04,grammar,K1,1,0,0,0
+LearnWeb04,ajedrez,K4,0,0,0,1
+LearnWeb05,activities children,K3,0,0,1,0
+LearnWeb05,activities children A1,K3,0,0,1,0
+LearnWeb05,music,K4,0,0,0,1
+LearnWeb06,children books,K3,0,0,1,0
+LearnWeb06,children english books,K3,0,0,1,0
+LearnWeb06,children english books,K3,0,0,1,0
+LearnWeb07,loro,K4,0,0,0,1
+LearnWeb07,loro,K1,1,0,0,0
+LearnWeb07,loro,K1,1,0,0,0
+LearnWeb07,Loro,K1,1,0,0,0
+LearnWeb07,Loro,K1,1,0,0,0
+LearnWeb07,test,K4,0,0,0,1
+LearnWeb07,test,K1,1,0,0,0
+LearnWeb08,human rights violations,K3,0,0,1,0
+LearnWeb08,human rights,K3,0,0,1,0
+LearnWeb08,human rights,K3,0,0,1,0
+LearnWeb08,human rights,K3,0,0,1,0
+LearnWeb08,tiger,K4,0,0,0,1
+LearnWeb08,tiger,K1,1,0,0,0
+LearnWeb08,BBC,K4,0,0,0,1
+LearnWeb08,children,K4,0,0,0,1
+LearnWeb08,children,K1,1,0,0,0
+LearnWeb08,human rights,K3,0,0,1,0
+LearnWeb08,barney,K4,0,0,0,1
+LearnWeb08,barney,K1,1,0,0,0
+LearnWeb08,barney bear,K2,0,1,0,0
+LearnWeb08,barney bear cambridge,K2,0,1,0,0
+LearnWeb08,barney bear bbc,K2,0,1,0,0
+LearnWeb09,english for kids,K3,0,0,1,0
+LearnWeb09,english for kids,K3,0,0,1,0
+LearnWeb09,english,K4,0,0,0,1
+LearnWeb09,english,K1,1,0,0,0
+LearnWeb09,english for kids,K2,0,1,0,0
+LearnWeb09,blog personale,K3,0,0,1,0
+LearnWeb09,jay,K4,0,0,0,1
+LearnWeb09,gretchen,K4,0,0,0,1
+LearnWeb09,grechen,K4,0,0,0,1
+LearnWeb09,gretchen,K4,0,0,0,1
+LearnWeb09,gretchen,K1,1,0,0,0
+LearnWeb09,teachers,K4,0,0,0,1
+LearnWeb09,teachers,K1,1,0,0,0
+LearnWeb10,south korea,K3,0,0,1,0
+LearnWeb10,korea,K4,0,0,0,1
+LearnWeb10,korea,K1,1,0,0,0
+LearnWeb10,south korea,K2,0,1,0,0
+LearnWeb11,improving english,K3,0,0,1,0
+LearnWeb11,english,K1,1,0,0,0
+LearnWeb11,improving english,K2,0,1,0,0
+LearnWeb11,improving english written skills,K2,0,1,0,0
+LearnWeb11,improving english written skills,K2,0,1,0,0
+LearnWeb11,cambridge,K4,0,0,0,1
+LearnWeb11,cambridge,K1,1,0,0,0
+LearnWeb11,cambridge english,K2,0,1,0,0
+LearnWeb11,mobile apps,K3,0,0,1,0
+LearnWeb11,emerging,K4,0,0,0,1
+LearnWeb11,write,K4,0,0,0,1
+LearnWeb11,write,K1,1,0,0,0
+LearnWeb11,write and improve,K2,0,1,0,0
+LearnWeb11,university,K4,0,0,0,1
+LearnWeb11,university,K1,1,0,0,0
+LearnWeb11,cambridge university,K2,0,1,0,0
+LearnWeb12,peer teaching,K3,0,0,1,0
+LearnWeb12,peer,K4,0,0,0,1
+LearnWeb12,peer,K1,1,0,0,0
+LearnWeb12,peer,K1,1,0,0,0
+LearnWeb12,peer,K1,1,0,0,0
+LearnWeb12,peer tutoring,K2,0,1,0,0
+LearnWeb12,apps,K4,0,0,0,1
+LearnWeb12,peer,K4,0,0,0,1
+LearnWeb12,peer,K1,1,0,0,0
+LearnWeb12,peer teaching,K2,0,1,0,0
+LearnWeb13,ecofeminism,K4,0,0,0,1
+LearnWeb13,ecoliguistics,K4,0,0,0,1
+LearnWeb13,eco,K4,0,0,0,1
+LearnWeb13,eco,K1,1,0,0,0
+LearnWeb13,eco and feminism,K2,0,1,0,0
+LearnWeb13,climate change,K3,0,0,1,0
+LearnWeb13,climate,K4,0,0,0,1
+LearnWeb13,climate,K1,1,0,0,0
+LearnWeb13,climate change,K2,0,1,0,0
+LearnWeb13,ecology,K4,0,0,0,1
+LearnWeb13,ecology,K1,1,0,0,0
+LearnWeb13,ecology climate,K2,0,1,0,0
+LearnWeb13,ecology climate change,K2,0,1,0,0
+LearnWeb13,ecolingisticas,K4,0,0,0,1
+LearnWeb13,spark note,K3,0,0,1,0
+LearnWeb13,spark note,K3,0,0,1,0
+LearnWeb13,sparknote,K4,0,0,0,1
+LearnWeb13,sparknote,K1,1,0,0,0
+LearnWeb13,spark note,K2,0,1,0,0
+LearnWeb13,spark notes,K2,0,1,0,0
+LearnWeb14,resources for teachers,K3,0,0,1,0
+LearnWeb14,british council learn english,K3,0,0,1,0
+LearnWeb14,pgel 2017,K3,0,0,1,0
+LearnWeb15,flipped classroom,K3,0,0,1,0
+LearnWeb15,geography clil,K3,0,0,1,0
+LearnWeb15,geography clil,K3,0,0,1,0
+LearnWeb15,geography,K4,0,0,0,1
+LearnWeb15,geography,K1,1,0,0,0
+LearnWeb15,geography clil,K2,0,1,0,0
+LearnWeb16,Web searching for learning,K3,0,0,1,0
+LearnWeb16,Playing,K4,0,0,0,1
+LearnWeb16,Group activities,K3,0,0,1,0
+LearnWeb16,Web searching for learning,K3,0,0,1,0
+LearnWeb16,Web searching for learning group activities,K3,0,0,1,0
+LearnWeb16,Web searching for learning,K3,0,0,1,0
+LearnWeb16,Ecofeminism,K4,0,0,0,1
+LearnWeb16,Web searching kids,K3,0,0,1,0
+LearnWeb16,Ecofeminism,K4,0,0,0,1
+LearnWeb16,Plurilingual education in italy,K3,0,0,1,0
+LearnWeb16,Science lessons,K3,0,0,1,0
+LearnWeb16,Science lessons high school,K3,0,0,1,0
+LearnWeb16,Science lessons,K3,0,0,1,0
+LearnWeb16,Science lessons nursery school,K3,0,0,1,0
+LearnWeb16,Science lessons primary school,K3,0,0,1,0
+LearnWeb16,Science lessons high school,K3,0,0,1,0
+LearnWeb17,ecolinguistics,K1,1,0,0,0
+LearnWeb17,exolinguistics,K4,0,0,0,1
+LearnWeb17,ecolinguistics,K1,1,0,0,0
+LearnWeb17,ecolinguistics,K1,1,0,0,0
+LearnWeb17,ecolinguistics,K1,1,0,0,0
+LearnWeb17,ecolinguistics,K1,1,0,0,0
+LearnWeb18,motivational interviewing,K3,0,0,1,0
+LearnWeb18,learning strategies,K3,0,0,1,0
+LearnWeb18,learning apps,K3,0,0,1,0
+LearnWeb18,plurilinguism,K4,0,0,0,1
+LearnWeb18,plurilinguism,K1,1,0,0,0
+LearnWeb18,plurilinguism,K1,1,0,0,0
+LearnWeb18,motivation for learning english,K3,0,0,1,0
+LearnWeb18,multilinguism,K4,0,0,0,1
+LearnWeb18,multilinguism and language in danger,K3,0,0,1,0
+LearnWeb18,three types of english,K3,0,0,1,0
+LearnWeb18,three types of english ted talk,K3,0,0,1,0
+LearnWeb19,english for kids games,K3,0,0,1,0
+LearnWeb19,english kids games,K3,0,0,1,0
+LearnWeb19,kids games english,K3,0,0,1,0
+LearnWeb19,oxford learner's dictionary,K3,0,0,1,0
+LearnWeb20,walt whitman poems,K3,0,0,1,0
+LearnWeb20,walt whitman poems,K3,0,0,1,0
+LearnWeb21,Music learning Language,K3,0,0,1,0
+LearnWeb21,Music learning englisch,K3,0,0,1,0
+LearnWeb21,Music learning english,K3,0,0,1,0
+LearnWeb21,Improve,K4,0,0,0,1
+LearnWeb22,Websearching for english,K3,0,0,1,0
+LearnWeb22,Ecolinguistics,K4,0,0,0,1
+LearnWeb22,Ecolinguistics,K1,1,0,0,0
+LearnWeb22,L2,K4,0,0,0,1
+LearnWeb23,english for children,K3,0,0,1,0
+LearnWeb23,improve english,K3,0,0,1,0
+LearnWeb23,english through music,K3,0,0,1,0
+LearnWeb23,english science class,K3,0,0,1,0
+LearnWeb24,language teaching,K3,0,0,1,0
+LearnWeb24,improving my english,K3,0,0,1,0
+LearnWeb24,improving my english,K3,0,0,1,0
+LearnWeb24,improving my english,K3,0,0,1,0
+LearnWeb24,cambridge assessment english,K3,0,0,1,0
+LearnWeb24,websearching for learning,K3,0,0,1,0
