@@ -28,7 +28,7 @@ id;session;query;annotation;query_state
 27;yahoo-13;yahoo! profile;"[[\http://dbpedia.org/resource/User_profile\""]]""";WS
 28;yahoo-13;presidents;"[[\http://dbpedia.org/resource/List_of_Presidents_of_the_United_States\""]]""";NW
 29;yahoo-13;presidents day 2012;"[[\http://dbpedia.org/resource/Washington's_Birthday\""] [\""http://dbpedia.org/resource/2012\""]]""";SC
-30;yahoo-13;presidents email;"[[\http://dbpedia.org/resource/President_of_the_United_States\""] [\""http://dbpedia.org/resource/Email_address\""]]""";GE
+30;yahoo-13;presidents email;"[[\http://dbpedia.org/resource/President_of_the_United_States\""] [\""http://dbpedia.org/resource/Email_address\""]]""";WS
 31;yahoo-13;presidents elected;"[[\http://dbpedia.org/resource/President_of_the_United_States\""] [\""http://dbpedia.org/resource/United_States_presidential_election\""]]""";WS
 32;yahoo-13;presidents elected without popular vote;"[[\http://dbpedia.org/resource/President_of_the_United_States\""] [\""http://dbpedia.org/resource/United_States_presidential_election\""] [\""http://dbpedia.org/resource/United_States_presidential_election\""]]""";SC
 33;yahoo-13;facebook log;"[[\http://dbpedia.org/resource/Facebook\""] [\""http://dbpedia.org/resource/Login\""]]""";NW
