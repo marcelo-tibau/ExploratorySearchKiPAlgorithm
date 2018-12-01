@@ -113,7 +113,7 @@ id;session;query;annotation;query_state
 112;yahoo-64;lolo jones world cup;"[[\http://dbpedia.org/resource/Lolo_Jones\""] [\""http://dbpedia.org/resource/IAAF_World_Indoor_Championships_in_Athletics\""]]""";IS
 113;yahoo-66;sunbeam mixmaster;"[[\http://dbpedia.org/resource/Sunbeam_Products\""]]""";IS
 114;yahoo-67;cyndi lauper lyrics;"[[\http://dbpedia.org/resource/Cyndi_Lauper\""] [\""http://dbpedia.org/resource/Lyrics\""]]""";IS
-115;yahoo-67;cyndi lauper all through the night;"[[\http://dbpedia.org/resource/Cyndi_Lauper\""] [\""http://dbpedia.org/resource/All_Through_the_Night_(Cyndi_Lauper_song)\""]]""";SC
+115;yahoo-67;cyndi lauper all through the night;"[[\http://dbpedia.org/resource/Cyndi_Lauper\""] [\""http://dbpedia.org/resource/All_Through_the_Night_(Cyndi_Lauper_song)\""]]""";WS
 116;yahoo-67;macy cyber monday;"[[\http://dbpedia.org/resource/Macy's\""] [\""http://dbpedia.org/resource/Cyber_Monday\""]]""";NW
 117;yahoo-67;she's always a woman lyrics;"[[\http://dbpedia.org/resource/She's_Always_a_Woman\""] [\""http://dbpedia.org/resource/Lyrics\""]]""";NW
 118;yahoo-67;always something there to remind me lyrics;"[[\http://dbpedia.org/resource/(There's)_Always_Something_There_to_Remind_Me\""] [\""http://dbpedia.org/resource/Lyrics\""]""";RE
@@ -1296,7 +1296,7 @@ id;session;query;annotation;query_state
 1295;yahoo-524;amanda bynes google;"[[\http://dbpedia.org/resource/Amanda_Bynes\""] [\""http://dbpedia.org/resource/Google\""]]""";SC
 1296;yahoo-524;part of leg;"[[\http://dbpedia.org/resource/Leg\""]]""";NW
 1297;yahoo-524;the silver linings playbook;"[[\http://dbpedia.org/resource/Silver_Linings_Playbook\""]]""";NW
-1298;yahoo-525;hot tug;"[[\http://dbpedia.org/resource/Hot_tub\""]]""";NW
+1298;yahoo-525;hot tug;"[[\http://dbpedia.org/resource/Hot_tub\""]]""";IS
 1299;yahoo-525;now you see me;"[[\http://dbpedia.org/resource/Now_You_See_Me_(film)\""]""";NW
 1300;yahoo-525;now you see me rotten tomatoes;"[[\http://dbpedia.org/resource/Now_You_See_Me_(film)\""] [\""http://dbpedia.org/resource/Rotten_Tomatoes\""]]""";SC
 1301;yahoo-525;world war z movie;"[[\http://dbpedia.org/resource/World_War_Z_(film)\""] [\""http://dbpedia.org/resource/Film\""]]""";NW
@@ -1337,10 +1337,10 @@ id;session;query;annotation;query_state
 1336;trec-2011-7;cosmetic laser treatment;"[[\http://dbpedia.org/resource/Cosmetology\""] [\""http://dbpedia.org/resource/Laser_medicine\""]]""";IS
 1337;trec-2011-7;wikipedia cosmetic laser treatment;"[[\http://dbpedia.org/resource/Wikipedia\""] [\""http://dbpedia.org/resource/Cosmetics\""] [\""http://dbpedia.org/resource/Laser_medicine\""]]""";SC
 1338;trec-2011-7;uses for cosmetic laser treatment;"[[\http://dbpedia.org/resource/Cosmetics\""] [\""http://dbpedia.org/resource/Laser_medicine\""]]""";WS
-1339;trec-2011-8;"\cosmetic laser treatment*\"" and safe*""";"[[\http://dbpedia.org/resource/Cosmetology\""] [\""http://dbpedia.org/resource/Laser_medicine\""] [\""http://dbpedia.org/resource/Safety\""]]""";WS
+1339;trec-2011-8;"\cosmetic laser treatment*\"" and safe*""";"[[\http://dbpedia.org/resource/Cosmetology\""] [\""http://dbpedia.org/resource/Laser_medicine\""] [\""http://dbpedia.org/resource/Safety\""]]""";IS
 1340;trec-2011-8;"\cosmetic laser treatment*\"" and efficac*""";"[[\http://dbpedia.org/resource/Cosmetology\""] [\""http://dbpedia.org/resource/Laser_medicine\""] [\""http://dbpedia.org/resource/Effectiveness\""]]""";WS
 1341;trec-2011-8;"\cosmetic laser treatment*\"" and effective*""";"[[\http://dbpedia.org/resource/Cosmetology\""] [\""http://dbpedia.org/resource/Laser_medicine\""] [\""http://dbpedia.org/resource/Effectiveness\""]]""";WS
-1342;trec-2011-8;"define:\cosmetic laser treatment*\""""";"[[\http://dbpedia.org/resource/Definition\""] [\""http://dbpedia.org/resource/Cosmetology\""] [\""http://dbpedia.org/resource/Laser_medicine\""]]""";GE
+1342;trec-2011-8;"define:\cosmetic laser treatment*\""""";"[[\http://dbpedia.org/resource/Definition\""] [\""http://dbpedia.org/resource/Cosmetology\""] [\""http://dbpedia.org/resource/Laser_medicine\""]]""";WS
 1343;trec-2011-8;laser treatment beauty safety;"[[\http://dbpedia.org/resource/Laser_medicine\""] [\""http://dbpedia.org/resource/Beauty\""] [\""http://dbpedia.org/resource/Safety\""]]""";WS
 1344;trec-2011-8;laser treatment about;"[[\http://dbpedia.org/resource/Laser_medicine\""]]""";WS
 1345;trec-2011-8;laser treatment definition;"[[\http://dbpedia.org/resource/Laser_medicine\""] [\""http://dbpedia.org/resource/Definition\""]]""";WS
@@ -1356,12 +1356,12 @@ id;session;query;annotation;query_state
 1355;trec-2012-2;personal IRA or 403 (b);"[[\http://dbpedia.org/resource/Individual_retirement_account\""] [\""http://dbpedia.org/resource/403(b)\""]]""";WS
 1356;trec-2012-2;help retirement plan;"[[\http://dbpedia.org/resource/Retirement_planning\""]]""";RE
 1357;trec-2012-3;teach yourself programming;"[[\http://dbpedia.org/resource/Autodidacticism\""] [\""http://dbpedia.org/resource/Programming_language\""]]""";IS
-1358;trec-2012-3;best programming language for beginners;"[[\http://dbpedia.org/resource/Programming_language\""] [\""http://dbpedia.org/resource/Beginner\""]]""";RE
+1358;trec-2012-3;best programming language for beginners;"[[\http://dbpedia.org/resource/Programming_language\""] [\""http://dbpedia.org/resource/Beginner\""]]""";WS
 1359;trec-2012-4;pocono mountains region;"[[\http://dbpedia.org/resource/Pocono_Mountains\""] [\""http://dbpedia.org/resource/Region\""]]""";IS
 1360;trec-2012-4;pocono mountains region things to do;"[[\http://dbpedia.org/resource/Pocono_Mountains\""] [\""http://dbpedia.org/resource/Region\""] [\""http://dbpedia.org/resource/Recreation\""]]""";SC
 1361;trec-2012-4;pocono mountains region activities;"[[\http://dbpedia.org/resource/Pocono_Mountains\""] [\""http://dbpedia.org/resource/Region\""] [\""http://dbpedia.org/resource/Recreation\""]]""";WS
 1362;trec-2012-4;pocono mountains region national park;"[[\http://dbpedia.org/resource/Pocono_Mountains\""] [\""http://dbpedia.org/resource/Region\""] [\""http://dbpedia.org/resource/National_park\""]]""";WS
-1363;trec-2012-5;pocono mountains;"[[\http://dbpedia.org/resource/Pocono_Mountains\""]]""";GE
+1363;trec-2012-5;pocono mountains;"[[\http://dbpedia.org/resource/Pocono_Mountains\""]]""";IS
 1364;trec-2012-5;pocono mountains park;"[[\http://dbpedia.org/resource/Pocono_Mountains\""] [\""http://dbpedia.org/resource/Park\""]]""";SC
 1365;trec-2012-5;pocono mountains shopping;"[[\http://dbpedia.org/resource/Pocono_Mountains\""] [\""http://dbpedia.org/resource/Shopping\""]]""";WS
 1366;trec-2012-6;pocono mountains pennsylvania;"[[\http://dbpedia.org/resource/Pocono_Mountains\""] [\""http://dbpedia.org/resource/Pennsylvania\""]]""";IS
@@ -1611,7 +1611,7 @@ id;session;query;annotation;query_state
 1610;trec-2011-11;hawaii real estate family resale value house OR condo news;"[[\http://dbpedia.org/resource/Hawaii\""] [\""http://dbpedia.org/resource/Real_estate\""] [\""http://dbpedia.org/resource/Family\""] [\""http://dbpedia.org/resource/House\""] [\""http://dbpedia.org/resource/Condominium\""] [\""http://dbpedia.org/resource/News\""]]""";SC
 1611;trec-2011-11;hawaii real estate average resale value house OR condo news;"[[\http://dbpedia.org/resource/Hawaii\""] [\""http://dbpedia.org/resource/Real_estate\""] [\""http://dbpedia.org/resource/Average\""] [\""http://dbpedia.org/resource/House\""] [\""http://dbpedia.org/resource/Condominium\""] [\""http://dbpedia.org/resource/News\""]]""";SC
 1612;trec-2011-12;taylor manor hospital;"[[\http://dbpedia.org/resource/Sheppard_Pratt_at_Ellicott_City\""]]""";IS
-1613;trec-2011-12;taylor manor hospital map;"[[\http://dbpedia.org/resource/Map\""]]""";IS
+1613;trec-2011-12;taylor manor hospital map;"[[\http://dbpedia.org/resource/Map\""]]""";SC
 1614;trec-2011-12;taylor manor maryland;"[[\http://dbpedia.org/resource/Sheppard_Pratt_at_Ellicott_City\""] [\""http://dbpedia.org/resource/Maryland\""]]""";WS
 1615;trec-2011-12;taylorhealth location;"[[\http://dbpedia.org/resource/Sheppard_Pratt_at_Ellicott_City\""] [\""http://dbpedia.org/resource/Location\""]]""";RE
 1616;trec-2011-13;employ warrant officer;"[[\http://dbpedia.org/resource/Employment\""] [\""http://dbpedia.org/resource/Warrant_officer\""]]""";IS

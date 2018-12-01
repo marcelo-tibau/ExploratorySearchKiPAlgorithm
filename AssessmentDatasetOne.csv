@@ -1,0 +1,94 @@
+id;assessment_number;dataset;session;query;original_query_state;classifier_query_state
+1;1;yahooDatasetTwo;yahoo-13;lark voorhies;IS;N/A
+2;1;yahooDatasetTwo;yahoo-13;presidential polls;NW;N/A
+3;1;yahooDatasetTwo;yahoo-13;yahoo! dating;NW;N/A
+4;1;yahooDatasetTwo;yahoo-13;yahoo! profile;WS;N/A
+5;1;yahooDatasetTwo;yahoo-13;presidents;NW;N/A
+6;1;yahooDatasetTwo;yahoo-13;presidents day 2012;SC;N/A
+7;1;yahooDatasetTwo;yahoo-13;presidents email;WS;N/A
+8;1;yahooDatasetTwo;yahoo-13;presidents elected;WS;N/A
+9;1;yahooDatasetTwo;yahoo-13;presidents elected without popular vote;SC;N/A
+10;1;yahooDatasetTwo;yahoo-13;facebook log;NW;N/A
+11;1;yahooDatasetTwo;yahoo-13;nesquik recall;NW;N/A
+12;1;yahooDatasetTwo;yahoo-13;yahoo! mail;NW;N/A
+13;1;yahooDatasetTwo;yahoo-13;yahoo;GE;N/A
+14;1;yahooDatasetTwo;yahoo-13;yahoo mail;SC;N/A
+15;1;yahooDatasetTwo;yahoo-13;yahoo mail india;SC;N/A
+16;1;yahooDatasetTwo;yahoo-13;yahoo mail plus;WS;N/A
+17;1;yahooDatasetTwo;yahoo-13;facebook log in;NW;N/A
+18;2;yahooDatasetTwo;yahoo-67;cyndi lauper lyrics;IS;N/A
+19;2;yahooDatasetTwo;yahoo-67;cyndi lauper all through the night;WS;N/A
+20;2;yahooDatasetTwo;yahoo-67;macy cyber monday;NW;N/A
+21;2;yahooDatasetTwo;yahoo-67;she's always a woman lyrics;NW;N/A
+22;2;yahooDatasetTwo;yahoo-67;always something there to remind me lyrics;RE;N/A
+23;3;yahooDatasetTwo;yahoo-74;dick morris;IS;N/A
+24;3;yahooDatasetTwo;yahoo-74;breitbart;RE;N/A
+25;3;yahooDatasetTwo;yahoo-74;swv;NW;N/A
+26;3;yahooDatasetTwo;yahoo-74;home depot;NW;N/A
+27;3;yahooDatasetTwo;yahoo-74;homemade halloween costumes;NW;N/A
+28;3;yahooDatasetTwo;yahoo-74;homemade pizza recipes;WS;N/A
+29;3;yahooDatasetTwo;yahoo-74;homemade potato chips;WS;N/A
+30;3;yahooDatasetTwo;yahoo-74;homemade pork sausage;WS;N/A
+31;4;yahooDatasetTwo;yahoo-126;yahoo mail;IS;N/A
+32;4;yahooDatasetTwo;yahoo-126;iphone;NW;N/A
+33;4;yahooDatasetTwo;yahoo-126;iphone 5;SC;N/A
+34;4;yahooDatasetTwo;yahoo-126;jim mora;NW;N/A
+35;4;yahooDatasetTwo;yahoo-126;yahoo! mail;NW;N/A
+36;4;yahooDatasetTwo;yahoo-126;Yahoo! Mail;RP;N/A
+37;4;yahooDatasetTwo;yahoo-126;yahoo;GE;N/A
+38;4;yahooDatasetTwo;yahoo-126;yahoo login;SC;N/A
+39;4;yahooDatasetTwo;yahoo-126;yahoo mail login;SC;N/A
+40;4;yahooDatasetTwo;yahoo-126;check my yahoo mail;WS;N/A
+41;4;yahooDatasetTwo;yahoo-126;yahoo london;WS;N/A
+42;4;yahooDatasetTwo;yahoo-126;yahoo long distance;WS;N/A
+43;5;yahooDatasetTwo;yahoo-385;dominos pizzas;IS;N/A
+44;5;yahooDatasetTwo;yahoo-385;papa john;RE;N/A
+45;5;yahooDatasetTwo;yahoo-385;papa johns;RP;N/A
+46;5;yahooDatasetTwo;yahoo-385;papa joe's restaurant;WS;N/A
+47;5;yahooDatasetTwo;yahoo-385;papa johns online;WS;N/A
+48;5;yahooDatasetTwo;yahoo-385;papa johns menus;WS;N/A
+49;5;yahooDatasetTwo;yahoo-385;papa johns promotion codes;WS;N/A
+50;5;yahooDatasetTwo;yahoo-385;papa johns c;WS;N/A
+51;5;yahooDatasetTwo;yahoo-385;papa johns co;WS;N/A
+52;5;yahooDatasetTwo;yahoo-385;papa johns codes;WS;N/A
+53;5;yahooDatasetTwo;yahoo-385;papa johns coupon codes;SC;N/A
+54;5;yahooDatasetTwo;yahoo-385;papa johns coupon codes 2011;SC;N/A
+55;6;yahooDatasetTwo;yahoo-519;tron actress;IS;N/A
+56;6;yahooDatasetTwo;yahoo-519;olivia wilde;RE;N/A
+57;6;yahooDatasetTwo;yahoo-519;heat vs pacers 2013 game 6;NW;N/A
+58;6;yahooDatasetTwo;yahoo-519;hydrocodone chlorphen er suspension;NW;N/A
+59;6;yahooDatasetTwo;yahoo-519;amox tr-k clv;RE;N/A
+60;6;yahooDatasetTwo;yahoo-519;pat riley;NW;N/A
+61;6;yahooDatasetTwo;yahoo-519;xanax;NW;N/A
+62;6;yahooDatasetTwo;yahoo-519;buy lunesta;RE;N/A
+63;7;yahooDatasetTwo;yahoo-525;hot tug;IS;N/A
+64;7;yahooDatasetTwo;yahoo-525;now you see me;NW;N/A
+65;7;yahooDatasetTwo;yahoo-525;now you see me rotten tomatoes;SC;N/A
+66;7;yahooDatasetTwo;yahoo-525;world war z movie;NW;N/A
+67;7;yahooDatasetTwo;yahoo-525;world war z movie review;SC;N/A
+68;8;yahooDatasetTwo;trec-2011-8;\cosmetic laser treatment*\" and safe*";IS;N/A
+69;8;yahooDatasetTwo;trec-2011-8;\cosmetic laser treatment*\" and efficac*";WS;N/A
+70;8;yahooDatasetTwo;trec-2011-8;\cosmetic laser treatment*\" and effective*";WS;N/A
+71;8;yahooDatasetTwo;trec-2011-8;define:\cosmetic laser treatment*\"";WS;N/A
+72;8;yahooDatasetTwo;trec-2011-8;laser treatment beauty safety;WS;N/A
+73;8;yahooDatasetTwo;trec-2011-8;laser treatment about;WS;N/A
+74;8;yahooDatasetTwo;trec-2011-8;laser treatment definition;WS;N/A
+75;8;yahooDatasetTwo;trec-2011-8;(beauty or cosmetic) and laser treatment;WS;N/A
+76;9;yahooDatasetTwo;trec-2012-6;pocono mountains pennsylvania;IS;N/A
+77;9;yahooDatasetTwo;trec-2012-6;pocono mountains pennsylvania hotels;SC;N/A
+78;9;yahooDatasetTwo;trec-2012-6;pocono mountains pennsylvania things to do;WS;N/A
+79;9;yahooDatasetTwo;trec-2012-6;pocono mountains camelbeach;WS;N/A
+80;9;yahooDatasetTwo;trec-2012-6;pocono mountains camelbeach hotel;SC;N/A
+81;9;yahooDatasetTwo;trec-2012-6;pocono mountains chateau resort;WS;N/A
+82;9;yahooDatasetTwo;trec-2012-6;pocono mountains chateau resort attractions;SC;N/A
+83;9;yahooDatasetTwo;trec-2012-6;pocono mountains chateau resort getting to;WS;N/A
+84;9;yahooDatasetTwo;trec-2012-6;chateau resort getting to;GE;N/A
+85;9;yahooDatasetTwo;trec-2012-6;pocono mountains chateau resort directions;WS;N/A
+86;10;yahooDatasetTwo;trec-2011-14;training management;IS;N/A
+87;10;yahooDatasetTwo;trec-2011-14;training management hotels?;SC;N/A
+88;10;yahooDatasetTwo;trec-2011-14;training management benefits?;WS;N/A
+89;10;yahooDatasetTwo;trec-2011-14;why training management benefits?;SC;N/A
+90;10;yahooDatasetTwo;trec-2011-14;why management studies benefits?;WS;N/A
+91;10;yahooDatasetTwo;trec-2011-14;why management studies benefits?;RP;N/A
+92;10;yahooDatasetTwo;trec-2011-14;qualifications management degree?;WS;N/A
+93;10;yahooDatasetTwo;trec-2011-14;degree hotel management?;WS;N/A
