@@ -119,11 +119,11 @@ id;session;query;annotation;query_state
 118;yahoo-67;always something there to remind me lyrics;"[[\http://dbpedia.org/resource/(There's)_Always_Something_There_to_Remind_Me\""] [\""http://dbpedia.org/resource/Lyrics\""]""";RE
 119;yahoo-68;facebook;"[[\http://dbpedia.org/resource/Facebook\""]]""";IS
 120;yahoo-68;faqcebook login;"[[\http://dbpedia.org/resource/Facebook\""]]""";SC
-121;yahoo-69;alumni;"[[\http://dbpedia.org/resource/Alumnus\""]]""";K1
+121;yahoo-69;alumni;"[[\http://dbpedia.org/resource/Alumnus\""]]""";IS
 122;yahoo-70;philadelphia eagles;"[[\http://dbpedia.org/resource/Philadelphia_Eagles\""]]""";IS
 123;yahoo-70;cowboys fans petition obama;"[[\http://dbpedia.org/resource/Dallas_Cowboys\""] [\""http://dbpedia.org/resource/Fan_(person)\""] [\""http://dbpedia.org/resource/Petition\""] [\""http://dbpedia.org/resource/Barack_Obama\""]]""";RE
 124;yahoo-71;mail;"[[\http://dbpedia.org/resource/Mail\""]]""";IS
-125;yahoo-71;eithad;"[[\http://dbpedia.org/resource/Etihad_Airways\""]]""";K4
+125;yahoo-71;eithad;"[[\http://dbpedia.org/resource/Etihad_Airways\""]]""";NW
 126;yahoo-72;msn;"[[\http://dbpedia.org/resource/MSN\""]]""";NW
 127;yahoo-72;facebook;"[[\http://dbpedia.org/resource/Facebook]]""";IS
 128;yahoo-72;3riversfcu credit union;"[[\http://dbpedia.org/resource/Credit_union\""]]""";NW
@@ -494,7 +494,7 @@ id;session;query;annotation;query_state
 493;yahoo-239;weeworld;"[[\http://dbpedia.org/resource/WeeWorld\""]]""";IS
 494;yahoo-240;google maps;"[[\http://dbpedia.org/resource/Google_Maps\""]]""";IS
 495;yahoo-240;yahoo mail;"[[\http://dbpedia.org/resource/Yahoo!_Mail\""]]""";NW
-496;yahoo-240;aol;"[[\http://dbpedia.org/resource/AOL\""]]""";K4
+496;yahoo-240;aol;"[[\http://dbpedia.org/resource/AOL\""]]""";NW
 497;yahoo-240;buffalo wild wing;"[[\http://dbpedia.org/resource/Buffalo_Wild_Wings\""]]""";NW
 498;yahoo-241;google;"[[\http://dbpedia.org/resource/Google\""]]""";IS
 499;yahoo-242;powerball closing time;"[[\http://dbpedia.org/resource/Powerball\""]]""";IS
@@ -1155,8 +1155,8 @@ id;session;query;annotation;query_state
 1154;yahoo-507;quotes about life;"[[\http://dbpedia.org/resource/Quotation\""] [\""http://dbpedia.org/resource/Life\""]]""";NW
 1155;yahoo-507;metro;"[[\http://dbpedia.org/resource/Rapid_transit\""]]""";NW
 1156;yahoo-507;metro blue line schedule;"[[\http://dbpedia.org/resource/Blue_Line_(Los_Angeles_Metro)\""] [\""http://dbpedia.org/resource/Public_transport_timetable\""]]""";SC
-1157;yahoo-507;blue line schedule;"[[\http://dbpedia.org/resource/Public_transport_timetable\""]]""";K2
-1158;yahoo-507;los angeles blue line schedule;"[[\http://dbpedia.org/resource/Blue_Line_(Los_Angeles_Metro)\""] [\""http://dbpedia.org/resource/Public_transport_timetable\""]]""";GE
+1157;yahoo-507;blue line schedule;"[[\http://dbpedia.org/resource/Public_transport_timetable\""]]""";GE
+1158;yahoo-507;los angeles blue line schedule;"[[\http://dbpedia.org/resource/Blue_Line_(Los_Angeles_Metro)\""] [\""http://dbpedia.org/resource/Public_transport_timetable\""]]""";SC
 1159;yahoo-507;facebook;"[[\http://dbpedia.org/resource/Facebook\""]]""";NW
 1160;yahoo-507;happy b day cards e-card;"[[\http://dbpedia.org/resource/Happy_Birthday\""] [\""http://dbpedia.org/resource/Birthday\""] [\""http://dbpedia.org/resource/Greeting_card\""] [\""http://dbpedia.org/resource/E-card\""]]""";NW
 1161;yahoo-507;gay marriage;"[[\http://dbpedia.org/resource/Same-sex_marriage\""]]""";NW
