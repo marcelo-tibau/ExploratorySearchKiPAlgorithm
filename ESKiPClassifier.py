@@ -60,7 +60,7 @@ def wordDuplicatesTwo():
 # Function to Classify pair of Queries based on ESKiP Taxonomy of Query States
 def QueryStateClassifier(str):
     while str in Qi:
-        if wordCounts(Qi) == wordCounts(Qi) and wordDuplicates() > 0:
+        if wordCounts(Qi) == wordCounts(Qi) and wordDuplicates() == 0:
             print ("IS")
         break
     while str in Qm:
