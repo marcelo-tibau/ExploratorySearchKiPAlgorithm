@@ -62,6 +62,8 @@ def QueryStateClassifier(str):
     while str in Qi:
         if wordCounts(Qi) == wordCounts(Qi) and wordDuplicates() == 0:
             print ("IS")
+        elif wordCounts(Qi) == wordCounts(Qi) and wordDuplicates() > 0:
+            print ("IS")
         break
     while str in Qm:
         if len(Qm.split()) < len(Qi.split()) and wordDuplicates() > 0:
