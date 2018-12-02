@@ -116,7 +116,7 @@ id;session;query;annotation;query_state
 115;yahoo-67;cyndi lauper all through the night;"[[\http://dbpedia.org/resource/Cyndi_Lauper\""] [\""http://dbpedia.org/resource/All_Through_the_Night_(Cyndi_Lauper_song)\""]]""";WS
 116;yahoo-67;macy cyber monday;"[[\http://dbpedia.org/resource/Macy's\""] [\""http://dbpedia.org/resource/Cyber_Monday\""]]""";NW
 117;yahoo-67;she's always a woman lyrics;"[[\http://dbpedia.org/resource/She's_Always_a_Woman\""] [\""http://dbpedia.org/resource/Lyrics\""]]""";NW
-118;yahoo-67;always something there to remind me lyrics;"[[\http://dbpedia.org/resource/(There's)_Always_Something_There_to_Remind_Me\""] [\""http://dbpedia.org/resource/Lyrics\""]""";RE
+118;yahoo-67;always something there to remind me lyrics;"[[\http://dbpedia.org/resource/(There's)_Always_Something_There_to_Remind_Me\""] [\""http://dbpedia.org/resource/Lyrics\""]""";WS
 119;yahoo-68;facebook;"[[\http://dbpedia.org/resource/Facebook\""]]""";IS
 120;yahoo-68;faqcebook login;"[[\http://dbpedia.org/resource/Facebook\""]]""";SC
 121;yahoo-69;alumni;"[[\http://dbpedia.org/resource/Alumnus\""]]""";IS
