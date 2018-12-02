@@ -74,7 +74,15 @@ def QueryStateClassifier(str):
             print ("RP")
         elif wordCounts (Qm) != wordCounts (Qi) and wordDuplicates() > 0:
             print ("WS")
+        elif wordCounts (Qm) != wordCounts (Qi) and wordDuplicates() > 0 and len(Qm.split()) < len(Qi.split()):
+            print ("WS")
+        elif wordCounts (Qm) != wordCounts (Qi) and wordDuplicates() > 0 and len(Qm.split()) > len(Qi.split()):
+            print ("WS")
         elif wordCounts (Qm) != wordCounts (Qi) and wordDuplicates() == 0:
+            print ("NW")
+        elif wordCounts (Qm) != wordCounts (Qi) and wordDuplicates() == 0 and len(Qm.split()) < len(Qi.split()):
+            print ("NW")
+        elif wordCounts (Qm) != wordCounts (Qi) and wordDuplicates() == 0 and len(Qm.split()) > len(Qi.split()):
             print ("NW")
         else:
             print ("RE")
@@ -90,7 +98,15 @@ def QueryStateClassifier(str):
             print ("RP")
         elif wordCounts (Qn) != wordCounts (Qm) and wordDuplicatesTwo() > 0:
             print ("WS")
+        elif wordCounts (Qn) != wordCounts (Qm) and wordDuplicates() > 0 and len(Qn.split()) < len(Qm.split()):
+            print ("WS")
+        elif wordCounts (Qn) != wordCounts (Qm) and wordDuplicates() > 0 and len(Qn.split()) > len(Qm.split()):
+            print ("WS")
         elif wordCounts (Qn) != wordCounts (Qm) and wordDuplicatesTwo() == 0:
+            print ("NW")
+        elif wordCounts (Qn) != wordCounts (Qm) and wordDuplicates() == 0 and len(Qn.split()) < len(Qm.split()):
+            print ("NW")
+        elif wordCounts (Qn) != wordCounts (Qm) and wordDuplicates() == 0 and len(Qn.split()) > len(Qm.split()):
             print ("NW")
         else:
             print ("RE") 
