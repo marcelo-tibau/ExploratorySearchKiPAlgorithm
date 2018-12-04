@@ -163,7 +163,7 @@ LearnWeb18;multilinguism;RE
 LearnWeb18;multilinguism and language in danger;SC
 LearnWeb18;three types of english;RE
 LearnWeb18;three types of english ted talk;SC
-LearnWeb19;english for kids games;WS
+LearnWeb19;english for kids games;IS
 LearnWeb19;english kids games;GE
 LearnWeb19;kids games english;RP
 LearnWeb19;oxford learner's dictionary;RE
@@ -197,12 +197,12 @@ LearnWeb27;ecology action;RP
 LearnWeb27;ecology action;RP
 LearnWeb27;ecology for kids;WS
 LearnWeb27;stop the music;NW
-LearnWeb26;CLIL;IS
-LearnWeb26;CLIL;RP
-LearnWeb26;CLIL;RP
-LearnWeb27;dislexia;IS
-LearnWeb27;dislexia;RP
-LearnWeb27;dislexia;RP
+LearnWeb26-B;CLIL;IS
+LearnWeb26-B;CLIL;RP
+LearnWeb26-B;CLIL;RP
+LearnWeb27-B;dislexia;IS
+LearnWeb27-B;dislexia;RP
+LearnWeb27-B;dislexia;RP
 LearnWeb28;ted malala;IS
 LearnWeb28;ted malala;RP
 LearnWeb28;laura cimetta blog;NW
@@ -461,7 +461,7 @@ LearnWeb106;Sparknotes;RP
 LearnWeb106;Sparknotes;RP
 LearnWeb107;soap;IS
 LearnWeb107;soap;RP
-LearnWeb107;soap;;RP
+LearnWeb107;soap;RP
 LearnWeb107;sidibe;RE
 LearnWeb107;sidibe;RP
 LearnWeb107;sidibe;RP
@@ -497,7 +497,7 @@ LearnWeb115;letteraatura;RP
 LearnWeb115;letteratura;RP
 LearnWeb116;italy;IS
 LearnWeb116;italy;RP
-LearnWeb116;jay;IS
+LearnWeb116;jay;NW
 LearnWeb116;gretchen;NW
 LearnWeb116;geometry;NW
 LearnWeb116;geometry;RP
