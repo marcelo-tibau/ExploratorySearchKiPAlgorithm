@@ -561,7 +561,7 @@ id;session;query;annotation;query_state
 560;yahoo-264;fay observer;"[[\http://dbpedia.org/resource/The_Fayetteville_Observer\""]]""";IS
 561;yahoo-265;unsecured no credit check loans;"[[\http://dbpedia.org/resource/Unsecured_debt\""]]""";IS
 562;yahoo-266;map;"[[\http://dbpedia.org/resource/Map\""]]""";IS
-563;yahoo-266;office depot;"[[\http://dbpedia.org/resource/Office_Depot\""]";"]"""
+563;yahoo-266;office depot;"[[\http://dbpedia.org/resource/Office_Depot\""]]""";NW
 564;yahoo-266;aqueduct race track;"[[\http://dbpedia.org/resource/Aqueduct_Racetrack\""]]""";NW
 565;yahoo-266;pakistan news;"[[\http://dbpedia.org/resource/Pakistan\""] [\""http://dbpedia.org/resource/News\""]]""";NW
 566;yahoo-266;gmail;"[[\http://dbpedia.org/resource/Gmail\""]]""";NW
